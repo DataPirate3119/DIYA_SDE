@@ -1,7 +1,6 @@
 # Manthan Backend API
 
-## What I Built
-A backend REST API for the Manthan platform. It provides endpoints for students to anonymously submit tips, check in with their moods, and discover helpful resources.
+## A backend REST API for the Manthan platform. It provides endpoints for students to anonymously submit tips, check in with their moods, and discover helpful resources.
 
 ## Technologies Used
 * **Node.js & Express:** Used to handle routing and API logic.
